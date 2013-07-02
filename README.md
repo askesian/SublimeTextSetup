@@ -53,7 +53,7 @@ Markdown
 
 Git
 ----------
-0. [Gist for Github](https://github.com/condemil/Gist)
+0. [Sublime Github](https://github.com/bgreenlee/sublime-github)
 1. [Git integration](https://github.com/kemayo/sublime-text-2-git)
 2. [Gitignore plugin](https://github.com/theadamlt/Sublime-Gitignore)
 3. [Add git commands to sidebar](https://github.com/SublimeText/SideBarGit)
